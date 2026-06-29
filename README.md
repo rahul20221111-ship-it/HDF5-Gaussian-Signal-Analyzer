@@ -96,6 +96,12 @@ or download the standalone Windows executable from the **Releases** section of t
 
 ---
 
+Citation Request
+
+If this software contributes to your research, publications, or academic work, please consider citing this repository or acknowledging its use in your manuscript. Proper citation helps support the continued development and maintenance of this project.
+
+---
+
 ## Author
 
 **Rahul Das**
